@@ -14,7 +14,7 @@ java {
 }
 
 bootJar {
-    mainClass.set('ru/bezborodov/datastoremicroservice/DataStoreMicroserviceApplication.java')
+    mainClass.set('ru.bezborodov.datastoremicroservice.DataStoreMicroserviceApplication')
 }
 
 configurations {
